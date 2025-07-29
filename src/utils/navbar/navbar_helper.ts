@@ -1,5 +1,5 @@
 import { BookHeart, SquarePen, BookOpenText, LucideProps } from 'lucide-react'
-import React, {ForwardRefExoticComponent, RefAttributes} from 'react'
+import {ForwardRefExoticComponent, RefAttributes} from 'react'
 
 type nav_btnT = {
     label : string,
